@@ -2,7 +2,7 @@
 
 ##DESCRIPTION
 
-The inBloom Published Toolkit provides end-to-end guidance, specifications and scripts to submit digital content metadata into the Learning Registry which will be searchable via the Learning Registry Index.
+The Publisher Toolkit provides end-to-end guidance, specifications and scripts to submit digital content metadata into the Learning Registry which will be searchable via the Learning Registry Index.
 
 ##COMPONENTS
 
