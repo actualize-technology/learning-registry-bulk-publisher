@@ -6,7 +6,7 @@ The Publisher Toolkit provides end-to-end guidance, specifications and scripts t
 
 ##COMPONENTS
 
-* inBloomPublishedImplementerToolkit-v12.docx – A step by step guide to publishing into the Learning Registry using the provided scripts
+* LearningRegistryPublisherImplementerToolkit-v12.docx – A step by step guide to publishing into the Learning Registry using the provided scripts
 
 * LRMI-JSONLD-Spec-v15.docs – The most recent community guidelines on the LRMI JSON-LD specification being used in the Learning Registry today.
 
@@ -20,4 +20,6 @@ The Publisher Toolkit provides end-to-end guidance, specifications and scripts t
 
 ##LICENSING
 
-Publisher Toolkit is licensed under the Apache License, Version 2.0. See LICENSE-2.0.txt for full license text.
+Learning Register Publisher Toolkit is licensed under the Apache License, Version 2.0 by Actualize Technology, Inc. See LICENSE-2.0.txt for full license text and rights.
+
+Contains work previously published by inBloom, also licensed under the the Apache License, Version 2.0.
